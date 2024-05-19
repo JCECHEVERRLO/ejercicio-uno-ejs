@@ -1,0 +1,38 @@
+[
+    {
+      "id": 5,
+      "name": "balones",
+      "price": 1000,
+      "quantity": 10
+    },
+    {
+      "id": 2,
+      "name": "guayos",
+      "price": 2000,
+      "quantity": 60
+    },
+    {
+      "id": 3,
+      "name": "Camiseta",
+      "price": 3000,
+      "quantity": 30
+    },
+    {
+        "id": 4,
+        "name": "canilleras",
+        "price": 3000,
+        "quantity": 30
+      },
+      {
+        "id": 5,
+        "name": "medias",
+        "price": 3000,
+        "quantity": 30
+      },
+      {
+        "id": 5,
+        "name": "camisas",
+        "price": 4000,
+        "quantity": 40
+      }
+  ]
